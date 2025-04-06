@@ -1,0 +1,125 @@
+body {
+    background-color: hsl(222, 26%, 31%);
+    display: flex;
+    justify-content: center;
+    
+    
+
+}
+
+.Mom{
+    border: 1px solid transparent;
+    
+
+}
+
+
+.top3 {
+    border: 1px solid hsl(224, 36%, 15%);
+    background-color: hsl(224, 36%, 15%);
+    
+   
+    
+    border-radius: 10px;
+    
+    padding: px;
+    
+    
+}
+
+.number{
+    color: azure;
+}
+
+.top2 {
+    display: flex;
+    justify-content: space-between;
+    align-items: end;
+    font-size: 15px;
+    
+    gap: 108px;
+}
+
+.topp{
+    
+    color: aliceblue;
+    display: flex;
+    
+}
+
+.fr{
+    color: aliceblue;
+    font-size: 30px;
+    
+}
+
+.bottom {
+    border: 1px solid hsl(224, 36%, 15%);
+    background-color: hsl(224, 36%, 15%);
+    margin-top: 5%;
+    height: 350px;
+    width: 350px;
+    padding: 30px;
+    border-radius: 10px;
+    
+    
+    
+
+    
+}
+
+button{
+    border: 1px solid hsl(30, 25%, 89%);
+    width: 70px;
+    height: 40px;
+    font-size: 20px;
+    background-color: hsl(30, 25%, 89%);
+    border-radius: 5px;
+    gap: 30px;
+    margin-bottom: 10%;
+    
+}
+
+.l3{
+    
+}
+
+.l4{
+   
+}
+
+.l1, .l2, .l3, .l4, .l5 {
+    display: flex;
+    gap: 20px;
+}
+
+.fr1{
+    border: 1px solid hsl(225, 21%, 49%);
+    background-color:hsl(225, 21%, 49%) ;
+    width: 150px;
+    margin-right: 5%;
+}
+
+.fr2{
+    border: 1px solid hsl(6, 63%, 50%);
+    background-color:hsl(6, 63%, 50%);
+    width: 150px;
+    font-size: large;
+   
+    
+}
+
+.dr{
+    border: 1px solid hsl(225, 21%, 49%);
+    background-color:hsl(225, 21%, 49%) ;
+    color: aliceblue;
+}
+
+.number{
+    display: flex;
+    align-items: end;
+    justify-content: end;
+    font-size: 40px;
+}
+
+
